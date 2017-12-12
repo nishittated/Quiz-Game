@@ -1,10 +1,9 @@
-# my-projects
-Projects developed by me in the programming & in  scripting languages
+# Quiz Game
 
-Projects:
-1) In C language 
-  Definition: Quiz Game
-  
-2) Developed an web page by use of HTML ,HTMl 5 , CSS & Javascript
-  Definition:  Facebook
-  
+# Quiz Game developed in C.
+
+# Developed By: Nishit Tated & Ankit Shah
+
+# Support or Contact
+* Instagram: https://www.instagram.com/nishit.tated/
+* Facebook : https://www.facebook.com/nishit.tated
