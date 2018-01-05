@@ -1,0 +1,5 @@
+5)The EFM of every cell of full charge battery is-
+A)1.18V
+B)2.4V
+C)2.2V
+D)2.0V
