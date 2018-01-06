@@ -19,8 +19,8 @@ Download from here: https://github.com/nishittated/Quiz-Game
 
 # Support or Contact - Let's become friend
 * <a href="https://www.instagram.com/nishit.tated/">Instagram</a>
-* <a href="https://www.github.com/nishittated/nishittated/">Github</a>
+* <a href="https://www.github.com/nishittated/">Github</a>
 * <a href="https://www.facebook.com/nishit.tated/">Facebook</a>
 
 # Contributing to Quiz-Game
-* All pull requests are welcome, make sure to follow the <a href="https://github.com/nishittated/Quiz-Game/blob/master/CONTRIBUTNG.MD">contribution guidelines </a>when you submit pull request.
+* All pull requests are welcome, make sure to follow the <a href="https://github.com/nishittated/Quiz-Game/blob/master/CONTRIBUTING.md">contribution guidelines </a>when you submit pull request.
