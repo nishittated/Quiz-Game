@@ -22,5 +22,5 @@ Download from here: https://github.com/nishittated/Quiz-Game
 * <a href="https://www.github.com/nishittated/nishittated/">Github</a>
 * <a href="https://www.facebook.com/nishit.tated/">Facebook</a>
 
-# Contributing to TypeColor
+# Contributing to Quiz-Game
 * All pull requests are welcome, make sure to follow the <a href="https://github.com/nishittated/Quiz-Game/blob/master/CONTRIBUTNG.MD">contribution guidelines </a>when you submit pull request.
