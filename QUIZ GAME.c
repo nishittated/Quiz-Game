@@ -4,7 +4,7 @@
 #include<stdlib.h>
  
 void help();
-int main()
+int main() 
 {
         system("COLOR 1A");
         char playername[20];
