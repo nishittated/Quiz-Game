@@ -10,7 +10,7 @@ int main()
         char playername[20];
         char ch;
         int countt=0,countf=0,tcount;
-        FILE *j,*fm , *n;
+        FILE *j,*fm , *n;   
         home:
              n=fopen("page.txt","r");
              while((ch=getc(n))!=EOF)
